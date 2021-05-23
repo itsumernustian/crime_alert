@@ -197,9 +197,9 @@ class _HomeState extends State<Home>
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: <Widget>[
-                  Icon(Icons.thumb_up_alt_outlined , color: Colors.blueGrey,),
-                  Icon(Icons.comment_bank_outlined,color: Colors.blueGrey,),
-                  Icon(Icons.share_outlined,color: Colors.blueGrey,),
+                  Icon(Icons.thumb_up_alt_outlined , color: Colors.grey,),
+                  Icon(Icons.comment_bank_outlined,color: Colors.grey,),
+                  Icon(Icons.share_outlined,color: Colors.grey,),
                 ],
               ),
 
